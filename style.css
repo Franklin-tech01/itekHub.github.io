@@ -63,8 +63,7 @@ header {
 
 
 .navbar__menu li a:hover {
-    /* color: #f77062; */
-    color: #4837ff;
+    color: #f77062;
     transition: all 0.3s;
     font-size: larger;
 }
